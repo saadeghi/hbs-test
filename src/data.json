@@ -1,0 +1,17 @@
+{
+    "title": "hbs test",
+    "persons": [
+        {
+            "name": "Edd Collins",
+            "job": "Regional Accountability Coordinator"
+        },
+        {
+            "name": "Freida Romaguera",
+            "job": "Future Accounts Designer"
+        },
+        {
+            "name": "Yvette Windler",
+            "job": "Internal Response Developer"
+        }
+    ]
+}

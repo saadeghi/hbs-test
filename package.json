@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "hbs './src/index.hbs' --output dist/ --partial './src/*.hbs' --data ./src/data.json --helper ./src/*.js"
+  },
+  "dependencies": {
+    "hbs-cli": "1.3.0"
+  }
+}
